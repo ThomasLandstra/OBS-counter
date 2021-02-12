@@ -3,6 +3,9 @@
 # OBS Text Counter
 The OBS text counter is a tool that simply increments a value when ctrl+l is pressed. This tool is useful for anything from a kill counter to tracking how many pushups you need to do. This tool is currently useable but more features will be developed later. Thank you for understanding.
 
+## How to use
+Drag the counter.txt into OBS or SLOBS and run main.py answering the prompts as they appear.
+
 ## Changelog
 V1.0.0
 - Added counter
