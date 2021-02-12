@@ -8,7 +8,7 @@ value = 0
 while True:
     if keyboard.is_pressed("ctrl+l"):
         value += count
-        file = open("text.txt", "w")
+        file = open("counter.txt", "w")
         file.write(template + ": " + str(value))
         file.close()
         ToastNotifier().show_toast("Added", "Total is: " + str(value), duration=1)
