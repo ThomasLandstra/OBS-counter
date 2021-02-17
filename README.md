@@ -10,6 +10,9 @@ Drag the counter.txt into OBS or SLOBS and run main.py answering the prompts as 
 Keybinds must not have spaces in them. Keybinds must be written like this: "space+ctrl+l".
 
 ## Changelog
+V1.2.0
+- Code can be used as module
+
 V1.1.0
 - Notifications are now optional
 - You can now set custom keybinds
