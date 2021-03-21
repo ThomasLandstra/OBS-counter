@@ -38,7 +38,6 @@ if __name__ == "__main__":
 
     if notify.lower() == "yes" or notify.lower() == "y":
         notify = True
-        print("a")
     else:
         notify = False
 
