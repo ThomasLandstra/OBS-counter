@@ -2,7 +2,7 @@
 
 # OBS Text Counter
 
-The OBS text counter is a tool that simply increments or decrements a value when a keybind is pressed. This tool is useful for anything from a kill counter to tracking how many pushups you need to do.
+The OBS text counter is a tool that simply increments or decrements a value when a keybind is pressed. This tool is useful to track anything from the number of kills and deaths you have, to the number of donations received.
 
 ## How to use
 
