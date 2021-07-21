@@ -43,4 +43,4 @@ V1.0.0
 - Added counter
 
 ## License
-US/UK english converter is shared under the [MIT license](https://github.com/ThomasLandstra/OBS-counter/blob/main/LICENSE).
+OBS counter is shared under the [MIT license](https://github.com/ThomasLandstra/OBS-counter/blob/main/LICENSE).
