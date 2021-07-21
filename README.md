@@ -1,6 +1,6 @@
-[![My Twitch](https://img.shields.io/twitch/status/the_undercover_ceo)](https://www.twitch.tv/the_undercover_ceo)
-
 # OBS Text Counter
+
+[![My Twitch](https://img.shields.io/twitch/status/the_undercover_ceo)](https://www.twitch.tv/the_undercover_ceo) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Version: 1.2.1](https://img.shields.io/badge/Version-V1.2.1-blue)](https://github.com/ThomasLandstra/OBS-counter/releases/tag/1.2.1)
 
 The OBS text counter is a tool that simply increments or decrements a value when a keybind is pressed. This tool is useful to track anything from the number of kills and deaths you have, to the number of donations received.
 
@@ -41,3 +41,6 @@ V1.1.0
 V1.0.0
 
 - Added counter
+
+## License
+US/UK english converter is shared under the [MIT license](https://github.com/ThomasLandstra/OBS-counter/blob/main/LICENSE).
